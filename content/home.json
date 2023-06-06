@@ -115,16 +115,16 @@
       "title": "Pincéis"
     },
     {
+      "type": "page-title",
+      "title": "Compre por Marca",
+      "description": "maiores marcas do mercado"
+    },
+    {
       "type": "brands-carousel",
       "limit": 24,
       "offset": 0,
       "autoplay": 5000,
       "sort": "name"
-    },
-    {
-      "type": "page-title",
-      "title": "Compre por Marca",
-      "description": "maiores marcas do mercado"
     }
   ]
 }
