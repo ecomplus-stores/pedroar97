@@ -17,17 +17,11 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": true,
-      "collection_id": null,
-      "sort": "offers",
-      "title": "Mais Vendidos",
-      "headless": false,
+      "shuffle": false,
       "limit": 12,
-      "page": 1
-    },
-    {
-      "type": "info-bar",
-      "enabled": true
+      "page": 1,
+      "title": "Novidades",
+      "sort": "news"
     },
     {
       "type": "page-title",
@@ -88,12 +82,18 @@
       ]
     },
     {
+      "type": "info-bar",
+      "enabled": true
+    },
+    {
       "type": "collection-shelf",
-      "shuffle": false,
+      "shuffle": true,
+      "collection_id": null,
+      "sort": "offers",
+      "title": "Mais Vendidos",
+      "headless": false,
       "limit": 12,
-      "page": 1,
-      "title": "Novidades",
-      "sort": "news"
+      "page": 1
     },
     {
       "type": "collection-shelf",
