@@ -7,3 +7,21 @@
 #cart .row .recommended-items {
     order: 1
 }
+
+.shipping-line[data-service-code="PICKUP"] small {
+    color: #fff !important;
+    -webkit-line-clamp: 4 !important;
+  }
+  
+  .shipping-line[data-service-code="PICKUP"] span.mr-2 {
+    display: none
+  }
+  .shipping-line[data-service-code="PICKUP"] strong.mr-2 {
+    font-weight: normal !important;
+    color: transparent !important;
+  }
+  
+  .shipping-line[data-service-code="PICKUP"] +small {
+    font-weight: bold;
+    font-size: 18px;
+  }
