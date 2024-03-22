@@ -75,12 +75,12 @@
       "enabled": true
     },
     {
-      "type": "info-bar",
-      "enabled": true
-    },
-    {
       "type": "recommended-products",
       "title": "Outros também compraram"
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
     }
   ]
 }
