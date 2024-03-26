@@ -7,4 +7,4 @@ storefront.on('widget:@ecomplus/widget-tag-manager', () => {
           }
         }
     }, 800);
-  });
+});
