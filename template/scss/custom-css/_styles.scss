@@ -25,3 +25,12 @@
     font-weight: bold;
     font-size: 18px;
   }
+
+  .cart__list + .recommended-items .recommended-items__title .lead {
+    font-size: 0
+  }
+  
+  .cart__list + .recommended-items .recommended-items__title .lead:after {
+    font-size: 20px !important;
+    content: "Que tal aproveitar o frete?"
+  }
