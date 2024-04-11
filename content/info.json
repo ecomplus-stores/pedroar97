@@ -7,8 +7,8 @@
   },
   "installments": {
     "show": true,
-    "text": "parcela mínima R$ 5",
-    "title": "ATÉ 4X SEM JUROS",
+    "text": "parcela mínima R$ 20",
+    "title": "ATÉ 3X SEM JUROS",
     "link": "/pages/termos"
   },
   "exchange": {
