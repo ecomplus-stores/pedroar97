@@ -3,10 +3,6 @@
   "meta_description": "Loja de maquiagem com as melhores marcas de cosméticos com atendimento e preços incríveis!",
   "sections": [
     {
-      "type": "info-bar",
-      "enabled": true
-    },
-    {
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": null,
@@ -15,6 +11,18 @@
       "headless": false,
       "limit": 12,
       "page": 1
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "title": "Novidades",
+      "sort": "news"
     },
     {
       "type": "page-title",
@@ -76,14 +84,6 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "title": "Novidades",
-      "sort": "news"
-    },
-    {
-      "type": "collection-shelf",
       "shuffle": true,
       "limit": 12,
       "page": 1,
@@ -91,6 +91,15 @@
       "sort": "views",
       "title": "Preparação de Pele",
       "headless": false
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "636ed30773321213f8d73fde:categories:Pincéis:/pinceis",
+      "sort": "views",
+      "title": "Pincéis"
     },
     {
       "type": "banner-slider",
@@ -104,15 +113,6 @@
           "link": "/gel-modelador-para-sobrancelha-com-pincel-melu-by-ruby-rose"
         }
       ]
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "636ed30773321213f8d73fde:categories:Pincéis:/pinceis",
-      "sort": "views",
-      "title": "Pincéis"
     },
     {
       "type": "page-title",
