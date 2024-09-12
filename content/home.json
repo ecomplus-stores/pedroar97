@@ -3,17 +3,8 @@
   "meta_description": "Loja de maquiagem com as melhores marcas de cosméticos com atendimento e preços incríveis!",
   "sections": [
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/full-banner-marca-creamy-skincare-1-.png",
-          "link": "/creamy-skincare"
-        }
-      ]
+      "type": "info-bar",
+      "enabled": true
     },
     {
       "type": "collection-shelf",
@@ -82,10 +73,6 @@
           "alt": "primer facial"
         }
       ]
-    },
-    {
-      "type": "info-bar",
-      "enabled": true
     },
     {
       "type": "collection-shelf",
