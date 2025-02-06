@@ -3,26 +3,18 @@
   "meta_description": "Loja de maquiagem com as melhores marcas de cosméticos com atendimento e preços incríveis!",
   "sections": [
     {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "collection_id": null,
-      "sort": "offers",
-      "title": "Mais Vendidos",
-      "headless": false,
-      "limit": 12,
-      "page": 1
-    },
-    {
       "type": "info-bar",
       "enabled": true
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
+      "shuffle": true,
+      "collection_id": null,
+      "sort": "sales",
+      "title": "Mais Vendidos",
+      "headless": false,
       "limit": 12,
-      "page": 1,
-      "title": "Novidades",
-      "sort": "news"
+      "page": 2
     },
     {
       "type": "page-title",
@@ -87,9 +79,17 @@
       "shuffle": true,
       "limit": 12,
       "page": 1,
+      "title": "Novidades",
+      "sort": "news"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 12,
+      "page": 1,
       "collection_id": "636ed24473321213f8d73e50:categories:Face:/face",
       "sort": "views",
-      "title": "Preparação de Pele",
+      "title": "Tudo para Pele",
       "headless": false
     },
     {
@@ -97,9 +97,9 @@
       "shuffle": true,
       "limit": 12,
       "page": 1,
-      "collection_id": "636ed30773321213f8d73fde:categories:Pincéis:/pinceis",
-      "sort": "views",
-      "title": "Pincéis"
+      "collection_id": "636ed27b73321213f8d73ea5:categories:Lábios:/labios",
+      "sort": "sales",
+      "title": "Tudo para Lábios"
     },
     {
       "type": "banner-slider",
@@ -115,6 +115,15 @@
       ]
     },
     {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "636ed3b173321213f8d74120:categories:Skin Care:/skin-care",
+      "sort": "offers",
+      "title": "Ofertas em Skin Care"
+    },
+    {
       "type": "page-title",
       "title": "Compre por Marca",
       "description": "maiores marcas do mercado"
@@ -125,6 +134,21 @@
       "offset": 0,
       "autoplay": 5000,
       "sort": "name"
+    },
+    {
+      "type": "shelfs-nav",
+      "shuffle": true,
+      "limit": 8,
+      "page": 1,
+      "collection_ids": [
+        "636fd6a073321213f8d82575:categories:Paletas:/paletas-maquiagem",
+        "636f105873321213f8d7a6f4:categories:Pó:/face/po-facial",
+        "636ffd5973321213f8d84a5e:categories:Sobrancelhas:/sobrancelhas",
+        "636ed35773321213f8d74096:categories:Esponjas e Acessórios:/esponjas-e-acessorios",
+        "66cfac49faf12b08d11256d1:categories:Corpo e Banho:/corpo-e-banho"
+      ],
+      "sort": "news",
+      "shelfs_title": "Confira Também"
     }
   ]
 }
