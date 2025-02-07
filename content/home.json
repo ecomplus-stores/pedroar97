@@ -127,7 +127,8 @@
         "66cfac49faf12b08d11256d1:categories:Corpo e Banho:/corpo-e-banho"
       ],
       "sort": "news",
-      "shelfs_title": ""
+      "shelfs_title": "",
+      "autoplay": 5000
     },
     {
       "type": "collection-shelf",
