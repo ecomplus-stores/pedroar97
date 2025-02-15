@@ -115,6 +115,11 @@
       "title": "Tudo para Lábios"
     },
     {
+      "type": "page-title",
+      "title": "Maquiagens em Alta",
+      "description": "as maquiagens mais desejadas do momento"
+    },
+    {
       "type": "shelfs-nav",
       "shuffle": true,
       "limit": 8,
