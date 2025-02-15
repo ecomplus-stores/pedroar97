@@ -3,18 +3,29 @@
   "meta_description": "Loja de maquiagem com as melhores marcas de cosméticos com atendimento e preços incríveis!",
   "sections": [
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/full-banner-gel-sobrancelhas-melu-ruby-rose.png",
+          "link": "/gel-modelador-para-sobrancelha-com-pincel-melu-by-ruby-rose"
+        }
+      ]
+    },
+    {
       "type": "info-bar",
       "enabled": true
     },
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "collection_id": null,
-      "sort": "sales",
-      "title": "Mais Vendidos",
-      "headless": false,
       "limit": 12,
-      "page": 2
+      "page": 1,
+      "title": "Novidades",
+      "sort": "news"
     },
     {
       "type": "page-title",
@@ -77,23 +88,12 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
+      "collection_id": null,
+      "sort": "sales",
+      "title": "Mais Vendidos",
+      "headless": false,
       "limit": 12,
-      "page": 1,
-      "title": "Novidades",
-      "sort": "news"
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/full-banner-gel-sobrancelhas-melu-ruby-rose.png",
-          "link": "/gel-modelador-para-sobrancelha-com-pincel-melu-by-ruby-rose"
-        }
-      ]
+      "page": 2
     },
     {
       "type": "collection-shelf",
