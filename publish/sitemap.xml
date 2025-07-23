@@ -2492,6 +2492,12 @@
     </url>
   
     <url>
+      <loc>https://www.migasuamake.com.br/lip-oil-hidratante-labial-com-particulas-douradas-pink-21-cs5263</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://www.migasuamake.com.br/ruby-rose</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -2720,13 +2726,13 @@
     </url>
   
     <url>
-      <loc>https://www.migasuamake.com.br/app/index</loc>
+      <loc>https://www.migasuamake.com.br/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://www.migasuamake.com.br/admin/index</loc>
+      <loc>https://www.migasuamake.com.br/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
