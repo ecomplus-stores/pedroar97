@@ -2228,6 +2228,12 @@
     </url>
   
     <url>
+      <loc>https://www.migasuamake.com.br/esponja-de-maquiagem-chanfrada-flawless-finish-silk-skin-ruby-rose-hba7002</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://www.migasuamake.com.br/face</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -2577,6 +2583,12 @@
   
     <url>
       <loc>https://www.migasuamake.com.br/po</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.migasuamake.com.br/esponja</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
