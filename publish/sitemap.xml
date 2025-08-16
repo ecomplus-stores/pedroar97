@@ -2852,7 +2852,7 @@
     </url>
   
     <url>
-      <loc>https://www.migasuamake.com.br/pages/privacidade</loc>
+      <loc>https://www.migasuamake.com.br/pages/termos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -2864,7 +2864,7 @@
     </url>
   
     <url>
-      <loc>https://www.migasuamake.com.br/pages/termos</loc>
+      <loc>https://www.migasuamake.com.br/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -2882,15 +2882,15 @@
     </url>
   
     <url>
-      <loc>https://www.migasuamake.com.br/</loc>
-      <changefreq>daily</changefreq>
-      <priority>1</priority>
-    </url>
-  
-    <url>
       <loc>https://www.migasuamake.com.br/blog</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.migasuamake.com.br/</loc>
+      <changefreq>daily</changefreq>
+      <priority>1</priority>
     </url>
   
     <url>
