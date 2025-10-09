@@ -2714,6 +2714,24 @@
     </url>
   
     <url>
+      <loc>https://www.migasuamake.com.br/lip-gloss-labial-com-brilho-ursinho-fofo-bobbi-rara-brb178119</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.migasuamake.com.br/lip-gloss-labial-com-brilho-frutinhas-3-cores-bobbi-rara-brb10605</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.migasuamake.com.br/lip-gloss-labial-com-glitter-bichinhos-3-cores-bobbi-rara-brb10604</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://www.migasuamake.com.br/face</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -3278,13 +3296,13 @@
     </url>
   
     <url>
-      <loc>https://www.migasuamake.com.br/pages/trocas</loc>
+      <loc>https://www.migasuamake.com.br/pages/termos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://www.migasuamake.com.br/pages/termos</loc>
+      <loc>https://www.migasuamake.com.br/pages/trocas</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -3320,13 +3338,13 @@
     </url>
   
     <url>
-      <loc>https://www.migasuamake.com.br/app/index</loc>
+      <loc>https://www.migasuamake.com.br/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://www.migasuamake.com.br/admin/index</loc>
+      <loc>https://www.migasuamake.com.br/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
