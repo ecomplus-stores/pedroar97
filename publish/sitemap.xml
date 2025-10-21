@@ -2774,6 +2774,36 @@
     </url>
   
     <url>
+      <loc>https://www.migasuamake.com.br/bruma-fixadora-glow-ouro-alleva-al0234</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.migasuamake.com.br/blindagem-facial-gotas-fix-vizzela-vz58gfb</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.migasuamake.com.br/blush-stick-bastao-red-mocha-las-clothing-vizzela-vz108bs-rm</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.migasuamake.com.br/mini-kit-mascara-de-cilios-no-panda-preta-marrom-e-cherry-vizzela-vz116ktmmc</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.migasuamake.com.br/mini-fixador-de-maquiagem-real-fix-100ml-vizzela-vz117mrf</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://www.migasuamake.com.br/face</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -3332,13 +3362,13 @@
     </url>
   
     <url>
-      <loc>https://www.migasuamake.com.br/pages/termos</loc>
+      <loc>https://www.migasuamake.com.br/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://www.migasuamake.com.br/pages/privacidade</loc>
+      <loc>https://www.migasuamake.com.br/pages/termos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -3386,15 +3416,15 @@
     </url>
   
     <url>
-      <loc>https://www.migasuamake.com.br/app/index</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.6</priority>
-    </url>
-  
-    <url>
       <loc>https://www.migasuamake.com.br/maintenance/index</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.migasuamake.com.br/app/index</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.6</priority>
     </url>
   
 </urlset>
