@@ -2930,6 +2930,12 @@
     </url>
   
     <url>
+      <loc>https://www.migasuamake.com.br/lip-gloss-hidratante-labial-mel-honey-kiss-glow-dapop-dp2399</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://www.migasuamake.com.br/face</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -3500,13 +3506,13 @@
     </url>
   
     <url>
-      <loc>https://www.migasuamake.com.br/pages/termos</loc>
+      <loc>https://www.migasuamake.com.br/pages/trocas</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://www.migasuamake.com.br/pages/trocas</loc>
+      <loc>https://www.migasuamake.com.br/pages/termos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
