@@ -4,8 +4,8 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
+      "autoplay": 8000,
+      "full_width": true,
       "slides": [
         {
           "start": "",
@@ -25,7 +25,8 @@
       "limit": 12,
       "page": 1,
       "title": "Novidades",
-      "sort": "news"
+      "sort": "news",
+      "autoplay": 6000
     },
     {
       "type": "page-title",
@@ -117,7 +118,7 @@
       ],
       "sort": "news",
       "shelfs_title": "Seleções do Momento",
-      "autoplay": 5000
+      "autoplay": 6000
     },
     {
       "type": "page-title",
@@ -128,7 +129,7 @@
       "type": "brands-carousel",
       "limit": 24,
       "offset": 0,
-      "autoplay": 5000,
+      "autoplay": 6000,
       "sort": null
     }
   ]
