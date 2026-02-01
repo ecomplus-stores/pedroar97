@@ -116,13 +116,10 @@
       "page": 1,
       "collection_ids": [
         "636fd6a073321213f8d82575:categories:Paletas:/paletas-maquiagem",
-        "636f105873321213f8d7a6f4:categories:Pó:/face/po-facial",
-        "636ffd5973321213f8d84a5e:categories:Sobrancelhas:/sobrancelhas",
-        "636ed35773321213f8d74096:categories:Esponjas e Acessórios:/esponjas-e-acessorios",
         "66cfac49faf12b08d11256d1:categories:Corpo e Banho:/corpo-e-banho"
       ],
       "sort": "news",
-      "shelfs_title": "",
+      "shelfs_title": "Veja Também",
       "autoplay": 5000
     },
     {
