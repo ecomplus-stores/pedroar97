@@ -1,14 +1,14 @@
 {
   "shipping": {
     "show": true,
-    "text": "a pronta entrega",
+    "text": "em até 1 dia útil",
     "title": "ENVIO IMEDIATO",
     "link": "/pages/termos"
   },
   "installments": {
     "show": true,
-    "text": "parcela mínima R$ 20",
-    "title": "ATÉ 3X SEM JUROS",
+    "text": "parcela mínima R$ 50",
+    "title": "ATÉ 5X SEM JUROS",
     "link": "/pages/termos"
   },
   "exchange": {
