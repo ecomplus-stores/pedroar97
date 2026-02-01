@@ -105,11 +105,6 @@
       "title": "Tudo para Lábios"
     },
     {
-      "type": "page-title",
-      "title": "Maquiagens em Alta",
-      "description": "as maquiagens mais desejadas do momento"
-    },
-    {
       "type": "shelfs-nav",
       "shuffle": true,
       "limit": 8,
@@ -119,7 +114,7 @@
         "66cfac49faf12b08d11256d1:categories:Corpo e Banho:/corpo-e-banho"
       ],
       "sort": "news",
-      "shelfs_title": "Veja Também",
+      "shelfs_title": "",
       "autoplay": 5000
     },
     {
