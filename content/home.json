@@ -111,9 +111,9 @@
       "page": 1,
       "collection_ids": [
         "66cfac49faf12b08d11256d1:categories:Corpo e Banho:/corpo-e-banho",
-        "636fe6df73321213f8d83654:categories:Paleta de Sombras:/paletas-maquiagem/paleta-sombras",
         "636fccc373321213f8d81a04:categories:Gloss e Brilho:/labios/gloss-brilho-labial",
-        "636fd1aa73321213f8d81f59:categories:Lápis Labial:/labios/lapis-labial"
+        "636fd1aa73321213f8d81f59:categories:Lápis Labial:/labios/lapis-labial",
+        "636fe6df73321213f8d83654:categories:Paleta de Sombras:/paletas-maquiagem/paleta-sombras"
       ],
       "sort": "news",
       "shelfs_title": "Seleções do Momento",
