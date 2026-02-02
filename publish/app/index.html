@@ -1,0 +1,532 @@
+<!doctype html><html lang="pt-br" dir="ltr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no,minimum-scale=1"><link rel="manifest" href="/manifest.json" crossorigin="use-credentials"><meta name="theme-color" content="#ff0d72"><link rel="icon" href="/img/uploads/vaquinha.png"><title>Miga sua Make</title><meta name="description" content="Nós somos uma loja especializada em maquiagens de diversas marcas. Aqui você vai encontrar variedade, preço justo e atendimento que você merece. Seja bem vinda!"><meta name="author" content="Miga sua Make"><meta name="generator" content="E-Com Plus Storefront"><link rel="canonical" href="https://www.migasuamake.com.br/app/index"><link rel="preload" href="/storefront.99bf876594294a4fc251.css" as="style"><script>partytown = {
+        resolveUrl: function (url, location) {
+          switch (url.hostname) {
+            case 'www.googletagmanager.com':
+            case 'www.google-analytics.com':
+            case 'analytics.google.com':
+            case 'api.hubspot.com':
+            case 'api.hubapi.com':
+            case 'trc.taboola.com':
+            case location.hostname:
+              return url;
+            default:
+              const proxyUrl = new URL(`https://${location.hostname}/~reverse-proxy/`);
+              proxyUrl.searchParams.append('url', url.href);
+              return proxyUrl;
+          };
+        },
+        forward: [],
+      };</script><script>!function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '674883742952040');
+  fbq('track', 'PageView');</script><script>!function(o,r){if(o[r]=[],o.storefront&&o.storefront.context){var t=o.storefront.context;
+if(t){var n={storefront:!0};for(var e in t)"string"==typeof t[e]&&(n[e]=t[e]);
+t&&t.body&&(n.resourceId=t.body._id),o[r].push(n)}}}(window,'dataLayer');
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WTJWP2J');</script><link rel="preconnect" href="https://cdn.jsdelivr.net/" crossorigin><link rel="dns-prefetch" href="https://cdn.jsdelivr.net/"><link rel="preconnect" href="https://apx-search.e-com.plus/" crossorigin><link rel="dns-prefetch" href="https://apx-search.e-com.plus/"><link rel="apple-touch-icon" href="/img/uploads/vaquinha.png"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="default"><meta property="og:site_name" content="Miga sua Make"><meta property="og:url" content="https://www.migasuamake.com.br/app/index"><meta property="og:title" content="Miga sua Make"><meta property="og:description" content="Nós somos uma loja especializada em maquiagens de diversas marcas. Aqui você vai encontrar variedade, preço justo e atendimento que você merece. Seja bem vinda!"><meta property="og:type" content="website"><meta property="og:locale" content="pt_BR"><meta name="twitter:card" content="summary"><meta name="ecom-store-id" content="51331"><meta name="views-v" content="1.3.0"><script>if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.register('/sw.js').then(registration => {
+      console.log('SW registered: ', registration)
+    }).catch(registrationError => {
+      console.log('SW registration failed: ', registrationError)
+    })
+  }</script><link rel="stylesheet" type="text/css" href="/storefront.99bf876594294a4fc251.css"><style>main .product__buy .btn-lg {
+    padding: 0px;
+}
+/*multiestante pagina inicial*/
+.shelfs-nav__title {
+    padding: 30px 0 10px;
+    font-size: 22px;
+}
+/*seletor variacaos produtos*/
+main .product .variations__option:focus, 
+main .product .variations__option:hover,
+main .product .variations__option--selected:not(.disabled) {
+    background-color: #ff0d72;
+    color: #ffffff;
+    font-weight: 500;
+    border-color: #ff0d72;
+}
+main .products-carousel__title {
+    font-family: inherit;
+    font-weight: 400;
+    padding: 20px 0 0;
+    font-size: 20px;
+    display: flex;
+}
+/*sombra card do produto e espacamento*/
+.product-card {
+    padding: 10px;
+}
+.products-carousel .products-carousel__item {
+  padding: 1px;
+}
+/*preço*/
+main .product-card .prices__value {
+    font-size: 14px;
+    font-weight: 500;
+    color: #303030;
+}
+main .product-card .prices__discount, main .product-card .prices__installments {
+    color: #303030;
+    font-size: 18px;
+    font-weight: 700;
+}
+main .product-card .prices {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.prices:not(.prices--big) .prices__installments {
+    font-weight: var(--font-light);
+    font-size: smaller;
+    color: #4f4f4f;
+}
+.prices--literal .prices__discount span {
+    font-size: 28px;
+    color: #303030;
+}
+main .product .prices__value {
+  font-size: 18px;
+  font-weight: 500;
+  color: #303030;
+}
+.product-card__prices .prices__installments:after {
+  content: ' sem juros';
+}
+main .product .prices__compare small:not(.prices__discount-label) {
+    display: none;
+}
+main .product .prices__compare+strong {
+    margin-left: 0;
+}
+small.prices__discount-label {
+    font-size: 12px;
+}
+/*pagina detalhes produto*/
+/*titulo produto*/
+main .product__name {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 25px;
+  margin-bottom: 5px;
+}
+main .product__sku{
+  margin-bottom: 5px;
+  margin-top: -5px;
+}
+/*tag desconto*/
+main .product-card__offer-stamp {
+    background-color: #ff0d72;
+    border-radius: 20px;
+    min-width: auto;
+    font-size: 12px;
+    font-family: sans-serif;
+    padding: 0 5px;
+}
+.product-card__offer-stamp i {
+    font-size: 140%;
+    opacity: 1;
+}
+/*texto vantagens*/
+main .info-bar__item div .info-bar__title {
+  font-family: system-ui;
+  font-size: 12px;
+  font-weight: 400;
+  font-style: normal;
+  color: #000000;
+}
+main .info-bar__item div {
+  font-size: 10px;
+}
+
+/*barra vantagens*/
+main .info-bar {
+    background: #f7f7f7;
+}
+/*cor fontes*/
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+  color: #000000;
+  font-size: 13px;
+}
+/*tamanho fonte titulo produto*/
+main .product-card__name {
+    font-size: 13px;
+    font-weight: 400;
+}
+
+.alert {
+    border-radius: 10px;
+    margin-bottom: 0;
+    color: black;
+    background-color: #00ff8e;
+    font-weight: 600;
+}
+/*fixar botao comprar*/
+.product-card__buy.fade {
+  display: none;
+}
+.product-card--small .product-card__buy {
+    position: initial;
+    right: 0;
+}
+/*botao comprar*/
+.btn-primary {
+    font-weight: 500;
+    font-size: 11px;
+    padding: 8px;
+}
+button.btn.btn-lg.btn-primary {
+    font-size: 15px;
+}
+i.i-shopping-bag.mr-1 {
+    font-weight: 600;
+}
+/*circulo quantidade adicionada carrinho*/
+main .header__buttons .badge-primary {
+    background-color: #ff0d72;
+}
+
+/*tamanho marcas*/
+img.img-fluid {
+    max-width: 50%;
+}
+
+/*ajustes menu*/
+.header__nav .header__submenu a {
+    color: #ff0d72;
+    font-size: 13px;
+    padding: 5px 0px;
+}
+div>.header__nav .header__category:hover {
+    color: #ff0d72;
+}
+div>.header__nav .header__category {
+    font-size: 13px;
+}
+/*ajustes botao comprar motor de busca*/
+.btn-sm {
+    padding: 10px 45px;
+}
+main .product__buy .quantity-selector__btn-container{
+  margin-left: 0;
+}
+@media screen and (max-width: 768px) {
+  .btn-sm {
+    padding: 10px 15px;
+  }
+}
+div>.header__nav--full a {
+    padding: 0 20px;
+    margin-top: 0px;
+}
+.menu__item {
+   font-weight: 500;
+}
+/*altura linha menu*/
+div>.header__nav--full {
+    padding-top: 20px;
+}
+div>.header__nav--full:before {
+    margin-top: -8px;
+}
+/*fundo pesquisa*/
+.header__search-input {
+    background: #0000000a;
+}
+main .header__search {
+    border-bottom: 0;
+    background: 0;
+}
+/*espaço superior menu*/
+.header__container {
+    margin-bottom: 0;
+    max-width: 100%;
+}
+/*linha horizontal estante produts*/
+main .products-carousel__title:before {
+    display: inline;
+    position: inline;
+    background: #00000061;
+    height: 1px;
+    margin-top: 10px;
+}
+.menu__link {
+    background: #ff0d72;
+    border-radius: 10px;
+    font-weight: 500;
+    color: #ffffff;
+    border-top: 0;
+}
+.gallery__thumbs {
+  margin: 0 !important;
+  width: max-content;
+}
+@media (max-width: 575.98px){
+main .product__buy .quantity-selector__btn-container {
+    display: inherit;
+    margin-left: 0;
+    margin-right: 10px;
+    border-radius: 10px;
+    height: 55px;
+}
+  main .product__buy .btn-lg{
+  height: 55px;
+  }
+  .quantity-selector__input {
+    padding-top: 20px;
+  }
+}
+
+/*reposicionando avise me*/
+.product__out-of-stock, .product__unavailable {
+    margin-top: 24px;
+}
+/*centralizar texto categorias*/
+.page-title.container.mt-4.mb-4.mb-lg-5 {
+  text-align: center;
+  padding-top: 20px;
+  margin: 0;
+  max-width: inherit;
+}
+.page-title__short-description.lead {
+    font-size: 15px;
+    padding-bottom: 10px;
+}
+main .page-title__head h1 {
+    font-family: system-ui;
+    line-height: 12px;
+    font-size: 20px;
+    font-weight: 500;
+}
+.col-12.col-lg-2.mb-3.mb-lg-0 {
+    max-width: 25%;
+    margin: auto;
+    padding-bottom: 20px;
+}
+
+@media (min-width: 768px){
+.page-title__head {
+    display: block;
+ }
+  .page-title.container.mt-4.mb-4.mb-lg-5 {
+    padding-top: 50px;
+  }
+  .col-12.col-lg-2.mb-3.mb-lg-0 {
+    max-width: 12%;
+  }
+}
+/*background rodape*/
+main .footer {
+    background-color: #000000;
+}
+/*opacidade ao passar mouse categorias*/
+.col-12.col-lg-2.mb-3.mb-lg-0:hover {
+    opacity: 50%;
+}
+/*ajustes botão adicionar favoritos*/
+a.btn.btn-sm.product__favorite {
+    color: black;
+    padding: 3px 7px;
+    font-size: 12px;
+    background-color: #f7f7f7;
+    border: solid 1px #dfdfdf;
+}
+a.btn.btn-sm.product__favorite:hover {
+    opacity: 60%;
+}
+.product__short-stock {
+    display: none;
+}
+.variations__grid--colors button {
+    font-size: 1rem !important;
+}
+/*remove texto frete gratis a parti de tanta und*/
+.product__free-shipping-from {
+    display: none;
+}
+/*remover opções de pagamento pagina produto*/
+main .product #product-actions>div article {
+    display: none;
+}
+/*fundo logo ecom rodape*/
+main .ecom-credits {
+    background-color: #000000;
+}
+/*ajuste checkout e frete*/
+a.payment__gateway.list-group-item.list-group-item-action {
+    background-color: #f0f0f0;
+    margin: 10px 0;
+    border: 0;
+    border-radius: 8px;
+    color: black;
+}
+
+
+.list-group-item-action.list-group-item {
+    color: #000000;
+    margin: 6px 0;
+    border-radius: 8px;
+    background: #f0f0f0;
+    border: 0;
+}
+
+a.list-group-item.list-group-item-action.active {
+    background: #ff0d72;
+    color: white;
+    margin: 6px 0;
+}
+
+/*reduzir tamanho pagina espaçamentos*/
+ol.breadcrumb.my-2.my-sm-3 {
+    margin-bottom: -30px;
+}
+
+p.product__prices {
+    margin-bottom: -8px;
+}
+main .product__prices {
+    padding-bottom: 0;
+}
+
+main .product .shipping-calculator {
+    padding-top: 0;
+}
+
+/*posicao popup tela inicial*/
+.modal.show .modal-dialog {
+    margin-top: 50px;
+}
+
+/*produtos recomendados*/
+.recommended-items .product-card__buy {
+    	display: contents !important;
+}
+
+.recommended-items .btn-sm {
+	padding: 10px 30px;
+}
+.row.no-gutters {
+    margin: 20px;
+}
+
+#cart .row .recommended-items {
+    border: 1px solid #ced4da;
+}
+.recommended-items__title {
+    margin-top: -1px;
+    background: #e7e7e7;
+}
+
+.cart__list + .recommended-items .recommended-items__title .lead {
+ font-size: 0
+}
+
+.cart__list + .recommended-items .recommended-items__title .lead:after {
+ font-size: 20px !important;
+ content: "Aproveite o frete e adicione:"
+}
+
+/*botao prosseguir pagamento*/
+.btn-success {
+    width: 100%;
+    font-weight: 500;
+    text-transform: uppercase;
+    line-height: 36px;
+}
+a.cart__btn-checkout.btn.btn-lg.btn-block.btn-success {
+    text-transform: capitalize;
+    font-size: 18px;
+}
+
+/*endereço frete*/
+.summary__amount__row>span small {
+    display: none !important;
+}
+
+/*texto retirar na loja*/
+.shipping-line[data-service-code=PICKUP]+small {
+    font-size: 14px;
+    font-weight: 600;
+}
+/*multi estante de produtos*/
+.shelfs-nav__tabs li {
+  min-width: fit-content;
+  border: 1px solid #5a5a5a;
+  border-radius: 5px;
+  padding: 0.5rem 5px 0 5px;
+  margin: 6px 3px;
+}
+.shelfs-nav__tabs {
+    margin-top: 0;
+    scrollbar-width: none;
+}
+.shelfs-nav__tab.active, .shelfs-nav__tab:hover {
+  background: #e3e3e3;
+  border-bottom: 1px solid #5a5a5a;
+}
+/*ajustar espaçamento produtos categorias*/
+.col-6.col-md-4.col-lg-3 {
+    margin: 5px 0;
+    padding: 0 5px;
+}
+/*esconder marcas*/
+.glide__slide.brands-carousel__item:has(a[href="/lanffy"]),
+.glide__slide.brands-carousel__item:has(a[href="/tango"]),
+.glide__slide.brands-carousel__item:has(a[href="/playboy"]),
+.glide__slide.brands-carousel__item:has(a[href="/miss-rose-makeup"]),
+.glide__slide.brands-carousel__item:has(a[href="/miss-lary"]),
+.glide__slide.brands-carousel__item:has(a[href="/vizzela"]),
+.glide__slide.brands-carousel__item:has(a[href="/makiaj"]),
+.glide__slide.brands-carousel__item:has(a[href="/sarahs-beauty"]),
+.glide__slide.brands-carousel__item:has(a[href="/dhermosa"]),
+.glide__slide.brands-carousel__item:has(a[href="/creamy-skincare"])
+{
+    display: none !important;
+}</style></head><body class="app"><header class="app__header"><div class="container-fluid"><div class="row"><div class="col-12 col-sm-auto mb-2 mb-sm-0"><a href="/"><img class="app__logo" src="/img/uploads/logo-loja-de-maquiagem-miga-sua-make.webp" alt="Miga sua Make"></a></div><div class="col"><div class="app__contact"><span class="d-none d-md-inline">Precisa de ajuda? Ligue para </span><span>(15) 9 997517759</span> <span>(15) 9 97517759</span></div><div class="app__safe"><span class="app__safe-icon"><i class="i-shield"></i> </span>Ambiente 100% seguro</div></div></div></div></header><main id="spa"><div id="storefront-app"><div class="loading p-4 p-lg-5 my-md-3 my-lg-5"><div class="spinner-border" role="status"><span class="sr-only">Loading...</span></div></div></div></main><footer><div class="app__footer"><div class="container-fluid"><div class="app__stamps"><ul class="stamps"><li><img data-src="/img/uploads/selo-site-de-maquiagem-seguro-miga-sua-make.webp" alt="site de maquiagem confiavel seguro" class="lozad fade" data-preload width="538" height="148"></li><li><a href="https://transparencyreport.google.com/safe-browsing/search?url=www.migasuamake.com.br" target="_blank" rel="noopener"><img data-src="/img/uploads/selo-google-safe-browsing-site-de-maquiagem.webp" alt="undefined" class="lozad fade" data-preload width="539" height="239"></a></li><div id="gmc-ratings-badge"><div></div></div><script>window.renderGmcBadge = function () {
+      var $ratingBadge = document.getElementById('gmc-ratings-badge').firstChild;
+      window.gapi.load('ratingbadge', function () {
+        window.gapi.ratingbadge.render(
+          $ratingBadge, {
+            merchant_id: 467748259,
+            position: "INLINE"
+          });
+      });
+    }
+    window.___gcfg = {
+      lang: "pt_BR"
+    };
+    const appendScript = () => {
+      const script = document.createElement('script');
+      script.setAttribute('src','https://apis.google.com/js/platform.js?onload=renderGmcBadge');
+      script.async = true;
+      script.defer = true;
+      document.body.appendChild(script);
+    }
+    if (location.pathname.startsWith('/app/')) {
+      appendScript();
+    } else {
+      let isLoaded = false;
+      const observer = new IntersectionObserver((entries) => {
+        if (entries[0].isIntersecting && !isLoaded) {
+          isLoaded = true;
+          appendScript();
+        }
+      }, {
+        rootMargin: '150px 0px',
+        threshold: 0,
+      });
+      observer.observe(document.getElementById('gmc-ratings-badge'));
+    }</script></ul></div></div></div><div class="app__credits container"><div><span class="app__credits-name">© Miga sua Make </span><span class="app__credits-address">- Sorocaba, SP - </span><span class="app__credits-number">31.005.545/0001-14</span></div></div></footer><script>/*<!--*/window._settings={"domain":"www.migasuamake.com.br","currency_symbol":"R$","primary_color":"#ff0d72","theme":{"bootswatch":"minty","custom":"ecom-beauty"},"bg_color":"#ffffff","repository":"ecomplus-stores/pedroar97","logo":"/img/uploads/logo-loja-de-maquiagem-miga-sua-make.webp","name":"Miga sua Make","short_name":"Miga sua Make","lang":"pt_br","currency":"BRL","mini_logo":"","font_family":"_","favicon":"/img/uploads/vaquinha.png","icons_font":"_","country_code":"BR","secondary_color":"#000000","icon":"/img/uploads/vaquinha.png","store_id":51331,"description":"Nós somos uma loja especializada em maquiagens de diversas marcas. Aqui você vai encontrar variedade, preço justo e atendimento que você merece. Seja bem vinda!","large_icon":"/img/uploads/vaquinha.png"};window._info={"shipping":{"show":true,"text":"em até 1 dia útil","title":"ENVIO IMEDIATO","link":"/pages/termos"},"installments":{"show":true,"text":"parcela mínima R$ 50","title":"ATÉ 5X SEM JUROS","link":"/pages/termos"},"exchange":{"show":true,"text":"atendimento profissional","title":"TIRE SUAS DÚVIDAS","link":"https://wa.me/5515997517759?text=Ola!%20estou%20finalizando%20um%20pedido%20e%20gostaria%20da%20sua%20ajuda"},"promo":{"show":true,"text":"5% desconto no PIX","link":"/pages/termos","title":"DESCONTO À VISTA"}};window._widgets={"@ecomplus/widget-fb-pixel":{"active":true,"desktopOnly":false,"enableCheckout":true,"options":{"fbqContainerId":"674883742952040","debug":false,"partytown":false},"headAppend":"src/append/head","bodyAppend":"src/append/body"},"@ecomplus/widget-gmc-ratings":{"active":true,"desktopOnly":false,"enableCheckout":true,"disablePages":true,"options":{"badgePosition":"INLINE","dialogPosition":"CENTER_DIALOG","gmcMerchantId":467748259},"stampsAppend":"src/append/stamps"},"@ecomplus/widget-minicart":{"active":true,"desktopOnly":false,"options":{"strHasShippingCalculator":"true"}},"@ecomplus/widget-offers-notification":{"active":true,"desktopOnly":false,"options":{"enableOutOfStock":true,"enablePriceChange":false,"popupOptions":"location=yes,height=400,width=320,status=yes"},"productSlots":"src/append/product-slots"},"@ecomplus/widget-product-card":{"active":true,"desktopOnly":false,"options":{"buyText":"ADICIONAR CARRINHO","buy":"","footer":""}},"@ecomplus/widget-product":{"active":true,"desktopOnly":false,"options":{"buyText":"COMPRAR","buy":"","strHasQuantitySelector":"_","strHasPromotionTimer":"_","lowQuantityToWarn":12,"maxVariationOptionsBtns":12,"quoteInfo":""}},"@ecomplus/widget-search-engine":{"active":true,"desktopOnly":false,"options":{"pagination":true}},"@ecomplus/widget-search":{"active":true,"desktopOnly":false,"options":{}},"@ecomplus/widget-tag-manager":{"active":true,"desktopOnly":false,"enableCheckout":true,"options":{"gtmContainerId":"GTM-WTJWP2J","dataLayerVar":"dataLayer","partytown":false},"headAppend":"src/append/head","bodyAppend":"src/append/body"},"@ecomplus/widget-user":{"active":true,"desktopOnly":true}};window._context={};window._data={"categories":[{"_id":"636ed24473321213f8d73e50","name":"Face","slug":"face","updated_at":"2022-11-12T19:26:51.202Z"},{"_id":"636ed27b73321213f8d73ea5","name":"Lábios","slug":"labios","updated_at":"2022-11-12T19:27:16.190Z"},{"_id":"636ed2b373321213f8d73f15","name":"Olhos","slug":"olhos","updated_at":"2022-11-12T19:27:33.222Z"},{"_id":"636ed30773321213f8d73fde","name":"Pincéis","slug":"pinceis","updated_at":"2022-11-12T19:28:23.107Z"},{"_id":"636ed35773321213f8d74096","name":"Esponjas e Acessórios","slug":"esponjas-e-acessorios","updated_at":"2022-11-12T19:28:38.492Z"},{"_id":"636ed3b173321213f8d74120","name":"Skin Care","slug":"skin-care","updated_at":"2022-11-12T19:29:07.100Z"},{"_id":"636ed41773321213f8d741be","name":"Unhas","slug":"unhas","updated_at":"2022-11-12T19:29:43.805Z"},{"_id":"636fd6a073321213f8d82575","name":"Paletas","slug":"paletas-maquiagem","updated_at":"2022-11-12T19:44:55.298Z"}],"grids":[{"grid_id":"cor_contorno","title":"Escolha a Cor do Contorno"},{"grid_id":"cor_base","title":"Escolha Cor da Base"},{"grid_id":"cor_iluminador","title":"Cor do Iluminador"},{"grid_id":"cor_esponja","title":"Escolha a Cor da Esponja"},{"grid_id":"aroma_esfoliante","title":"Escolha o sabor"},{"grid_id":"cor_balm","title":"Cor do Balm"},{"grid_id":"cor_lip_tint","title":"Cor do Lip Tint"},{"grid_id":"cor_blush","title":"Cor do Blush"},{"grid_id":"cor_po","title":"Cor do Pó"},{"grid_id":"cor_batom","title":"Cor do Batom"},{"grid_id":"cor_pigmento","title":"Cor do Pigmento"},{"grid_id":"lip_oil","title":"Lip Oil"},{"grid_id":"cor_corretivo","title":"Cor do Corretivo"},{"grid_id":"cor_gloss","title":"Cor do Gloss"},{"grid_id":"cor_gel","title":"Escolha a Cor do Gel"},{"grid_id":"escolha_a_cor","title":"Escolha a Cor"},{"grid_id":"cor_delineador","title":"Escolha a Cor do Delineador"},{"grid_id":"cor_base","title":"Cor da Base"},{"grid_id":"cor_lpis_labial","title":"Escolha a Cor do Lápis"},{"grid_id":"cor_da_esponja","title":"Cor da Esponja"},{"grid_id":"cor_do_pincel","title":"Cor do Pincel"},{"grid_id":"cor_do_curvex","title":"Cor do Curvex"},{"grid_id":"cor_do_corretivo","title":"Cor do Corretivo"},{"grid_id":"cor_do_lip_tint","title":"Cor do Lip Tint"},{"grid_id":"cor_da_base","title":"Escolha Cor da Base"},{"grid_id":"cor_da_pomada","title":"cor_da_pomada"},{"grid_id":"colors","title":"Cores"},{"grid_id":"cor_do_delineador","title":"Cor do Delineador"},{"grid_id":"escolha_a_cor","title":"Escolha a cor"},{"grid_id":"esfoliante","title":"esfoliante"},{"grid_id":"kit","title":"kit"},{"grid_id":"sabonete","title":"sabonete"},{"grid_id":"hidratante","title":"hidratante"},{"grid_id":"escolha_sua_cor","title":"escolha_sua_cor"},{"grid_id":"acabamento_matte","title":"Acabamento matte"},{"grid_id":"acabamento","title":"Acabamento"},{"grid_id":"efeito","title":"Efeito"}],"items":[{"_id":"63647eba73321213f8c93292","sku":"HB8519","name":"Tinted Balm Nutritivo com Cor Feels Mood Ruby Rose","slug":"tinted-balm-nutritivo-com-cor-feels-mood-ruby-rose","pictures":[{"_id":"613294166753042474100000","normal":{"url":"https://ecoms1.com/51331/imgs/normal/@v3/1667530422467-f443e29bf19857edd14ac3648f5fc358awsaccesskeyidakiatclmsgfx4j7tu445expires1668135212signatureyc5c8rwtlxberjjpljzxcqy8mlo3d.jpg.avif","alt":"Tinted Balm Nutrivo com Cor Feels Mood Ruby Rose (normal)"}}]},{"_id":"63647ef073321213f8c932d2","sku":"HB512","name":"Máscara de Cílios e Sobrancelhas Sérum Feels Mood Ruby Rose","slug":"mascara-de-cilios-e-sobrancelhas-serum-feels-mood-ruby-rose","pictures":[{"_id":"203400166753047387000000","normal":{"url":"https://ecoms1.com/51331/imgs/normal/@v3/1667530469132-4cc018c44cbb7296c09151100a83ec78awsaccesskeyidakiatclmsgfx4j7tu445expires1668135262signaturehoxjsykt9jp2zrj8jq9jbb0bmsw3d.jpg.avif","alt":"Máscara de Cílios e Sobrancelhas Sérum Feels Mood Ruby Rose (normal)"}}]},{"_id":"63647f2773321213f8c93307","sku":"ISUMHV","name":"Iluminador Compacto Shine Up Mahav","slug":"iluminador-compacto-shine-up-mahav","pictures":[{"_id":"995894166753053437000000","normal":{"url":"https://ecoms1.com/51331/imgs/normal/@v3/1667530532667-4ca6895735c18a7a22872ccb50826f2aawsaccesskeyidakiatclmsgfx4j7tu445expires1668135327signaturesjbhf8tfxoeun32f6o13g2fg5fwy83d.jpg.avif","alt":"Iluminador Compacto Shine Up Mahav (normal)"}}]},{"_id":"6367ef1273321213f8cc9bfe","sku":"RU37W7L5CL","name":"Sérum Facial 10 em 1 com Rosa Mosqueta Ácido Hialurônico Max Love","slug":"serum-facial-10-em-1-com-rosa-mosqueta-acido-hialuronico-max-love","pictures":[{"_id":"767800174367989827700001","normal":{"url":"https://ecoms1.com/51331/imgs/normal/@v3/1743679767129-srum10em1novo.jpg.avif","size":"350x347","alt":"Sérum 10 em 1 NOVO"}}]},{"_id":"6367ef5e73321213f8cc9c49","sku":"HB509","name":"Gel Incolor para Cílios e Sobrancelhas Game On Ruby Rose","slug":"gel-incolor-para-cilios-e-sobrancelhas-game-on-ruby-rose","pictures":[{"_id":"729807166775586941800000","normal":{"url":"https://ecoms1.com/51331/imgs/normal/@v3/1667755867441-21435a6c630070d9346b9bd7c18d21a6awsaccesskeyidakiatclmsgfx4j7tu445expires1668360662signatureq7m2bejlobvpazi42fslnelml1rp83d.jpg.avif","alt":"Gel Incolor para Cílios e Sobrancelhas Game On Ruby Rose (normal)"}}]},{"_id":"6367f05773321213f8cc9d81","sku":"HB851","name":"Pó Banana Feels Mood Ruby Rose","slug":"po-banana-feels-mood-ruby-rose","pictures":[{"_id":"232040166775665827900000","normal":{"url":"https://ecoms1.com/51331/imgs/normal/@v3/1667756499461-pobananarubyrosefeelsmood.jpg.avif","size":"350x350","alt":"po banana ruby rose feels mood"}}]},{"_id":"6371234073321213f8d90de1","sku":"MXLVSFVC10EM1","name":"Sérum Facial de Vitamina C 10 em 1 Max Love","slug":"serum-facial-de-vitamina-c-10-em-1-max-love","pictures":[{"_id":"820920174367996859500000","normal":{"url":"https://ecoms1.com/51331/imgs/normal/@v3/1743679794156-srumvitaminac10em1novo1.jpg.avif","size":"350x347","alt":"Sérum Vitamina C 10 em 1  NOVO (1)"}}]},{"_id":"6371235173321213f8d90e0c","sku":"MXLVSRMBA10EM1","name":"Sérum Facial Bioativo Antiacne 10 em 1 Max Love","slug":"serum-facial-bioativo-antiacne-10-em-1-max-love","pictures":[{"_id":"274930174367992064600000","normal":{"url":"https://ecoms1.com/51331/imgs/normal/@v3/1743679751598-srumantiacne10em1bioativonovo.jpg.avif","size":"350x350","alt":"Sérum Antiacne 10 em 1 Bioativo NOVO"}}]}]};window.productCardStamps=[];/*-->*/</script><script type="application/ld+json">{"@context":"http://schema.org","@type":"Organization","name":"Miga sua Make","url":"https://www.migasuamake.com.br/","logo":"https://ecoms1.com/51331/@v3/1667754780114-g1639.png"}</script><script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha256-4+XzXVhsDmqanXGHaHvgh1gMQKX40OUvDEBTu8JcmNs=" crossorigin="anonymous"></script><script>if (!window.jQuery) {
+      document.write('<script src="https://unpkg.com/jquery@3.5.1/dist/jquery.min.js"><\/script>')
+    }</script><script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script><script>if (!window.Popper) {
+      document.write('<script src="https://unpkg.com/popper.js@1.16.1/dist/umd/popper.min.js"><\/script>')
+    }</script><script src="/checkout.bc7a56ca28fefd35e395.js"></script><noscript><img src="https://www.facebook.com/tr?id=674883742952040&amp;ev=PageView&amp;noscript=1" height="1" width="1" style="display:none"></noscript><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WTJWP2J" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><a href="https://wa.me/5515997517759?text=Ola!%20estou%20finalizando%20um%20pedido%20e%20gostaria%20da%20sua%20ajuda" style="position:fixed;width:60px;height:60px;bottom:40px;background-color:#25d366;color:#FFF;border-radius:50px;text-align:center;font-size:30px;box-shadow: 1px 1px 2px #888;z-index:1000;right:40px;" target="_blank"><i style="margin-top:16px" class="fab fa-whatsapp"></i></a></body></html>
