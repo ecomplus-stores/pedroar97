@@ -392,6 +392,12 @@
     </url>
   
     <url>
+      <loc>https://www.migasuamake.com.br/hidratante-corporal</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://www.migasuamake.com.br/delineador-liquido-preto-ruby-rose</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -3470,19 +3476,25 @@
     </url>
   
     <url>
-      <loc>https://www.migasuamake.com.br/mini-paleta-estojo-de-sombras-matte-18-cores-com-espelho-e-pincel-bella-femme-bf10021a</loc>
+      <loc>https://www.migasuamake.com.br/mini-paleta-estojo-de-sombras-matte-18-cores-com-espelho-e-pincel-bella-femme</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
   
     <url>
-      <loc>https://www.migasuamake.com.br/body-splash-rose-essence-alleva-al5003</loc>
+      <loc>https://www.migasuamake.com.br/body-splash-rose-essence-alleva</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
   
     <url>
-      <loc>https://www.migasuamake.com.br/lip-gloss-mel-com-chaveiro-febella-bm40141</loc>
+      <loc>https://www.migasuamake.com.br/lip-gloss-mel-com-chaveiro-febella</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.migasuamake.com.br/geleia-hidratante-corporal-iluminadora-shimmer-alleva</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -3722,15 +3734,15 @@
     </url>
   
     <url>
-      <loc>https://www.migasuamake.com.br/app/index</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.6</priority>
-    </url>
-  
-    <url>
       <loc>https://www.migasuamake.com.br/maintenance/index</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.migasuamake.com.br/app/index</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.6</priority>
     </url>
   
 </urlset>
