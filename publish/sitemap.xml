@@ -452,6 +452,12 @@
     </url>
   
     <url>
+      <loc>https://www.migasuamake.com.br/delineadores-para-sobrancelhas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://www.migasuamake.com.br/delineador-liquido-preto-ruby-rose</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -3788,6 +3794,12 @@
     </url>
   
     <url>
+      <loc>https://www.migasuamake.com.br/caneta-de-sobrancelhas-fio-a-fio-24hrs-e-a-prova-dagua-tattoo-vivai-205911</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://www.migasuamake.com.br/ruby-rose</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -3968,6 +3980,12 @@
     </url>
   
     <url>
+      <loc>https://www.migasuamake.com.br/pages/privacidade</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
       <loc>https://www.migasuamake.com.br/pages/termos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -3975,12 +3993,6 @@
   
     <url>
       <loc>https://www.migasuamake.com.br/pages/trocas</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.migasuamake.com.br/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -4022,15 +4034,15 @@
     </url>
   
     <url>
-      <loc>https://www.migasuamake.com.br/app/index</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.6</priority>
-    </url>
-  
-    <url>
       <loc>https://www.migasuamake.com.br/maintenance/index</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.migasuamake.com.br/app/index</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.6</priority>
     </url>
   
 </urlset>
