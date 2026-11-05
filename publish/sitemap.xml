@@ -3548,7 +3548,7 @@
     </url>
   
     <url>
-      <loc>https://www.migasuamake.com.br/box-lip-gloss-labial-chaveiro-ursinho-miss-romantic-24-un-bx24mr8809</loc>
+      <loc>https://www.migasuamake.com.br/box-lip-gloss-labial-chaveiro-ursinho-miss-romantic-24-un-hidratante-labial</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -4268,13 +4268,13 @@
     </url>
   
     <url>
-      <loc>https://www.migasuamake.com.br/pages/termos</loc>
+      <loc>https://www.migasuamake.com.br/pages/trocas</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://www.migasuamake.com.br/pages/trocas</loc>
+      <loc>https://www.migasuamake.com.br/pages/termos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -4292,15 +4292,15 @@
     </url>
   
     <url>
-      <loc>https://www.migasuamake.com.br/blog</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://www.migasuamake.com.br/</loc>
       <changefreq>daily</changefreq>
       <priority>1</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.migasuamake.com.br/blog</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
     </url>
   
     <url>
