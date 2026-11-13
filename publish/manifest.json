@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.3776064e96de060f56732afbc549c7a6.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.031dff9413862344395b70c1c4355ef5.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.7e63808179ba312952dbd92a7d0c6f71.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.1289b73fc80c9044a61ba8147bebbbb2.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.9f0534b8237a9835c4699949e37f22e6.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Miga sua Make",
+  "short_name": "Miga sua Make",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Nós somos uma loja especializada em maquiagens de diversas marcas. Aqui você vai encontrar variedade, preço justo e atendimento que você merece. Seja bem vinda!",
+  "background_color": "#ffffff",
+  "theme_color": "#ff0d72"
+}
