@@ -494,6 +494,18 @@
     </url>
   
     <url>
+      <loc>https://www.migasuamake.com.br/aplicadores-e-ferramentas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.migasuamake.com.br/esponjas-para-maquiagem</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://www.migasuamake.com.br/delineador-liquido-preto-ruby-rose</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -4226,6 +4238,36 @@
     </url>
   
     <url>
+      <loc>https://www.migasuamake.com.br/kit-3-esponja-de-maquiagem-coracao-para-po-kesp2079</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.migasuamake.com.br/kit-3-esponja-de-maquiagem-redonda-para-po-kesp2081</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.migasuamake.com.br/kit-36-esponja-de-maquiagem-redonda-para-po-kt36kesp2081</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.migasuamake.com.br/kit-36-esponja-de-maquiagem-coracao-para-po-kt36kesp2079</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.migasuamake.com.br/box-balm-hidratante-labial-viv-vivai-24und-bx24317411</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://www.migasuamake.com.br/ruby-rose</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -4454,12 +4496,6 @@
     </url>
   
     <url>
-      <loc>https://www.migasuamake.com.br/maintenance/index</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://www.migasuamake.com.br/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
@@ -4469,6 +4505,12 @@
       <loc>https://www.migasuamake.com.br/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.migasuamake.com.br/maintenance/index</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
     </url>
   
 </urlset>
